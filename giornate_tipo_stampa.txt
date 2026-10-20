@@ -1,0 +1,51 @@
+A1-Alessio
+nuggets birbe di pollo amadori (150.0g), Mediterranean potatoes McCain (150.0g), yogurt caffe kionas (150.0g), multicereale al miele (25.0g), cioccolato fondente lidl (10.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (40.0g), Pasta barilla (100.0g), tonno a pinne gialle al naturale pam (112.0g), Aequilibrium petto di tacchino al forno Aia (120.0g), Variegato al tiramisu pam (160.0g), Corn flakes original Carrefour (45.0g)
+
+A2-Alessio
+nuggets birbe di pollo amadori (150.0g), yogurt caffe kionas (150.0g), multicereale al miele (25.0g), cioccolato fondente lidl (25.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (40.0g), Pasta barilla (100.0g), tonno a pinne gialle al naturale pam (112.0g), Aequilibrium petto di tacchino al forno Aia (120.0g), Variegato al tiramisu pam (160.0g), Corn flakes original Carrefour (75.0g), spinaci in cubetti zio Gigi (200.0g)
+
+B1-Alessio
+yogurt caffe kionas (150.0g), multicereale al miele (25.0g), cioccolato fondente lidl (25.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (40.0g), Pasta barilla (100.0g), Variegato al tiramisu pam (160.0g), Corn flakes original Carrefour (65.0g), Macinata scelta magra basko (200.0g), Mediterranean potatoes McCain (150.0g), Ragu alla bolognese pam (70.0g), Olio (2.2g)
+
+B2-Alessio
+yogurt caffe kionas (150.0g), multicereale al miele (25.0g), cioccolato fondente lidl (25.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (40.0g), Pasta barilla (100.0g), Variegato al tiramisu pam (160.0g), Corn flakes original Carrefour (75.0g), Macinata scelta magra basko (200.0g), Ragu alla bolognese pam (70.0g), Olio (2.2g), spinaci in cubetti zio Gigi (200.0g), Cracker pavesi salati in superficie rossi (31.0g)
+
+C1-Alessio
+yogurt caffe kionas (150.0g), multicereale al miele (25.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (40.0g), Pasta barilla (100.0g), Variegato al tiramisu pam (160.0g), Petto di tacchino (200.0g), Mediterranean potatoes McCain (200.0g), Senape calve (20.0g), cioccolato fondente lidl (25.0g), Corn flakes original Carrefour (55.0g), Ragu alla bolognese pam (70.0g)
+
+C2-Alessio
+multicereale al miele (25.0g), yogurt caffe kionas (150.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (40.0g), Pasta barilla (100.0g), Variegato al tiramisu pam (160.0g), Petto di tacchino (200.0g), Senape calve (20.0g), cioccolato fondente lidl (25.0g), Corn flakes original Carrefour (55.0g), Ragu alla bolognese pam (70.0g), spinaci in cubetti zio Gigi (200.0g), pop corn pam (80.0g)
+
+A1-Elena
+nuggets birbe di pollo amadori (150.0g), Mediterranean potatoes McCain (150.0g), yogurt caffe kionas (150.0g), multicereale al miele (50.0g), cioccolato fondente lidl (40.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (35.0g), Pasta barilla (100.0g), tonno a pinne gialle al naturale pam (112.0g), skyr bianco naturale (50.0g)
+
+A2-Elena
+spinaci in cubetti zio Gigi (200.0g), nuggets birbe di pollo amadori (150.0g), yogurt caffe kionas (150.0g), multicereale al miele (25.0g), cioccolato fondente lidl (25.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (35.0g), Pasta barilla (100.0g), tonno a pinne gialle al naturale pam (112.0g), Pan bauletto bianco mulino bianco (100.0g), Marmellosa mirtili pam (50.0g)
+
+C1-Elena
+yogurt caffe kionas (150.0g), multicereale al miele (25.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (35.0g), Pasta barilla (100.0g), Petto di tacchino (200.0g), Mediterranean potatoes McCain (200.0g), Senape calve (20.0g), cioccolato fondente lidl (25.0g), Ragu alla bolognese pam (70.0g), Pan bauletto bianco mulino bianco (100.0g), Marmellosa mirtili pam (50.0g)
+
+B1-Elena
+yogurt caffe kionas (150.0g), multicereale al miele (25.0g), cioccolato fondente lidl (25.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (35.0g), Pasta barilla (100.0g), Macinata scelta magra basko (200.0g), Mediterranean potatoes McCain (150.0g), Ragu alla bolognese pam (70.0g), Olio (2.2g), skyr bianco naturale (50.0g), Pan bauletto bianco mulino bianco (100.0g), Marmellosa mirtili pam (50.0g)
+
+B2-Elena
+yogurt caffe kionas (150.0g), multicereale al miele (50.0g), cioccolato fondente lidl (35.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (35.0g), Pasta barilla (100.0g), Macinata scelta magra basko (200.0g), Ragu alla bolognese pam (70.0g), Olio (2.2g), spinaci in cubetti zio Gigi (200.0g), Pan bauletto bianco mulino bianco (100.0g), Marmellosa mirtili pam (50.0g), skyr bianco naturale (50.0g)
+
+C2-Elena
+multicereale al miele (25.0g), yogurt caffe kionas (150.0g), Oro saiwa bianchi biscotti (42.0g), Oro saiwa scuri biscotti (40.0g), Pasta barilla (100.0g), Petto di tacchino (200.0g), Senape calve (20.0g), cioccolato fondente lidl (25.0g), Ragu alla bolognese pam (70.0g), spinaci in cubetti zio Gigi (200.0g), Pan bauletto bianco mulino bianco (100.0g), Marmellosa mirtili pam (50.0g), Anarcardi naturali senza sale pam (30.0g)
+
+Pissa1/2-Alessio
+pissa wurstel e patatine Pam (600.0g), yogurt caffe kionas (150.0g), cioccolato fondente lidl (10.0g), Ramen Oyakata (89.0g), Aequilibrium petto di tacchino al forno Aia (120.0g), budino proteico milk pro 20g cacao (200.0g), pop corn pam (33.0g), Corn flakes original Carrefour (70.0g)
+
+Pissa1/2-Elena
+pissa wurstel e patatine Pam (600.0g), yogurt caffe kionas (150.0g), cioccolato fondente lidl (10.0g), Ramen Oyakata (89.0g), budino proteico milk pro 20g cacao (200.0g), pop corn pam (33.0g), Corn flakes original Carrefour (20.0g)
+
+Pissa-Elena
+pissa wurstel e patatine Pam (400.0g), yogurt caffe kionas (150.0g), cioccolato fondente lidl (25.0g), Ramen Oyakata (89.0g), multicereale al miele (25.0g), Corn flakes original Carrefour (20.0g), skyr bianco naturale (150.0g), pop corn pam (33.0g), budino proteico milk pro 20g cacao (200.0g), Oro saiwa bianchi biscotti (35.0g)
+
+Pissa-Alessio
+pissa wurstel e patatine Pam (400.0g), yogurt caffe kionas (150.0g), cioccolato fondente lidl (25.0g), Ramen Oyakata (89.0g), multicereale al miele (25.0g), Corn flakes original Carrefour (90.0g), pop corn pam (33.0g), budino proteico milk pro 20g cacao (200.0g), gelato Variegato al tiramisu pam (50.0g), Aequilibrium petto di tacchino al forno Aia (120.0g)
+
+Pissa-Elena 2
+pissa wurstel e patatine Pam (400.0g), yogurt caffe kionas (150.0g), cioccolato fondente lidl (10.0g), Ramen Oyakata (89.0g), multicereale al miele (10.0g), Corn flakes original Carrefour (10.0g), skyr bianco naturale (150.0g), pop corn pam (66.0g), budino proteico milk pro 20g cacao (200.0g), Oro saiwa bianchi biscotti (35.0g)
+

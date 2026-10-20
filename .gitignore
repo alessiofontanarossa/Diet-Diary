@@ -1,0 +1,11 @@
+# Dipendenze ed ambienti virtuali
+venv/
+node_modules/
+dist/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# File di sistema
+.DS_Store
